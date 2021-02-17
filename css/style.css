@@ -196,19 +196,19 @@ body {
 }
 .particles .logo h1 {
   text-align: center;
-  font-size: 40px;
+  font-size: 38px;
   color: #6dc234;
   font-family: "Work Sans", sans-serif;
   font-weight: bold;
-  width: 500px;
+  width: 180px;
   margin: auto;
-  background: -webkit-linear-gradient(75deg, #c640e6, #da1c5f);
+  background: -webkit-linear-gradient(75deg, #fe8702, #da1c5f);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 #home {
-  background: url(../img/homebanner-2.jpg);
+  background: url(../img/homebanner-1.jpg);
   background-attachment: fixed;
 }
 #home .bnr-contet {
@@ -419,7 +419,7 @@ footer .talk {
   color: #7e7500;
 }
 footer P {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   font-family: "Poppins", sans-serif;
   color: #107df6;
@@ -486,5 +486,5 @@ footer .icond:hover {
   background: #58d10d;
   transition: 0.6s ease;
 }
-
+.sandy{font-size: 16px;}
 /*# sourceMappingURL=style.css.map */
